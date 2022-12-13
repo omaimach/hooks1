@@ -18,4 +18,4 @@ stars.push(
   )
 }
 
-export default StarRating
+export default StarRating;

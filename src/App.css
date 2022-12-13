@@ -16,7 +16,7 @@ body {
 
 .header-container {
   color: white;
-  background: rgb(231, 61, 61);
+  background: rgb(192, 113, 113);
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -74,7 +74,7 @@ body {
 
 form {
   border-radius: 6px;
-  background-color: darkred;
+  background-color: rgb(233, 207, 207);
   font-size: 20px;
   width: calc(100vw / 1.8);
   margin: auto;
